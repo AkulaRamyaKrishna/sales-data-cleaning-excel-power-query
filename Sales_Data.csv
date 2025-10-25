@@ -1,0 +1,104 @@
+Client,Client Representative,Region,Department,Product,Quantity,Unit Price,Cost Price,Date
+Delta Co,Mary Jones,West,Clothing,Rice Bag,17,444.0,333.47,2024-11-09
+Beta Ltd,Priya Kumar,West,Electronics,Rice Bag,20,959.42,714.76,2024-09-06
+Alpha Corp,Priya Kumar,North,Electronics,Rice Bag,19,304.09,218.42,2024-12-06
+Epsilon LLC,Alex Lee,North,Clothing,Table,8,811.75,592.98,2024-09-16
+Gamma Inc,John Smith,North,Electronics,Shirt,5,612.12,539.4,2024-11-18
+Epsilon LLC,Alex Lee, north ,Furniture,Table,20,487.02,308.54,2024-03-21
+Gamma Inc,Priya Kumar,South,Clothing,Monitor,15,662.12,585.33,2024-07-03
+Alpha Corp,Mary Jones,North,Electronics,Monitor,10,876.45,724.51,2024-11-22
+Beta Ltd,John Smith,West,Furniture,Table,3,640.05,472.53,2024-07-07
+Epsilon LLC,Priya Kumar,East,Groceries,Rice Bag,19,626.08,473.48,2024-11-29
+Gamma Inc,David Chen,East,Clothing,Table,16,548.62,391.0,2024-01-11
+Epsilon LLC,John Smith,East,Clothing,Rice Bag,10,501.72,421.35,2024-01-04
+Beta Ltd,Alex Lee,West,furniture ,Monitor,14,193.17,126.61,2024-09-11
+Epsilon LLC,Priya Kumar,West,Furniture,Jeans,6,150.38,106.31,2024-11-28
+Alpha Corp,Mary Jones,South,,Chair,15,632.45,468.12,2024-04-23
+Gamma Inc,Alex Lee,,Clothing,TV,17,697.88,460.35,2024-03-27
+Beta Ltd,John Smith,South,Groceries,Monitor,5,525.79,431.94,2024-07-22
+Beta Ltd,Alex Lee,North,Furniture,Shirt,18,292.53,256.11,2024-08-25
+Epsilon LLC,David Chen,South,Furniture,Jeans,13,240.9,199.91,2024-03-01
+Epsilon LLC,David Chen,West,Furniture,Shirt,16,988.71,683.75,2024-05-24
+Gamma Inc,mary jones,West,Electronics,Table,11,861.09,529.08,2024-04-29
+Gamma Inc,John Smith,East,Clothing,Jeans,18,962.59,722.69,2024-07-16
+Delta Co,David Chen,North,Clothing,Monitor,14,810.27,602.29,2024-11-01
+Alpha Corp,Priya Kumar,South,Groceries,TV,12,253.28,166.3,2024-08-10
+Delta Co,Mary Jones,West,Electronics,Jeans,11,713.78,439.58,2024-08-18
+ALPHA CORP,Alex Lee,East,Clothing,Jeans,13,726.72,545.23,2024-02-18
+Epsilon LLC,Priya Kumar,North,Electronics,Shirt,1,466.34,384.36,2024-04-16
+Beta Ltd,Mary Jones,West,Groceries,Jeans,7,550.36,423.01,2024-01-16
+Alpha Corp,Priya Kumar,East,,Chair,14,485.25,292.72,2024-10-15
+Epsilon LLC,Alex Lee,North,Furniture,TV,12,899.48,648.8,2024-07-11
+Beta Ltd,David Chen,North,Furniture,Monitor,8,142.23,99.82,2024-08-04
+Gamma Inc,Mary Jones,North,Furniture,Rice Bag,17,632.92,563.62,2024-03-24
+Beta Ltd,David Chen,West,Groceries,Table,17,546.94,466.27,2024-10-21
+Gamma Inc,Mary Jones,East,Furniture,Rice Bag,4,382.21,305.46,2024-09-23
+Beta Ltd,David Chen,East,Groceries,Laptop,15,988.01,813.2,2024-09-29
+Alpha Corp,Priya Kumar,South,Furniture,Rice Bag,4,401.06,318.73,2024-07-04
+Epsilon LLC,John Smith,West,Furniture,Rice Bag,8,718.16,528.44,2024-08-13
+Gamma Inc,Mary Jones,,Furniture,Rice Bag,14,123.23,103.88,2024-04-05
+Beta Ltd,David Chen,West,Electronics,Table,7,204.27,152.32,2024-12-04
+Delta Co,Alex Lee,East,Electronics,Jeans,14,816.64,594.11,2024-06-10
+Gamma Inc,Alex Lee,West,Furniture,Laptop,3,513.97,452.91,2024-11-12
+Alpha Corp,John Smith,North,Groceries,Jeans,9,528.65,424.71,2024-10-20
+Alpha Corp,David Chen,South,Clothing,Shirt,2,843.18,589.32,2024-11-25
+Gamma Inc,Alex Lee,North,Clothing,Rice Bag,14,474.13,313.09,2024-12-11
+,Mary Jones,West,Clothing,Table,14,391.34,268.7,2024-12-08
+,Priya Kumar,West,Electronics,Rice Bag,14,648.68,472.07,2024-12-06
+Delta Co,John Smith,East,Groceries,Monitor,11,763.93,647.08,2024-02-07
+Gamma Inc,Alex Lee,East,Clothing,Shirt,5,912.58,645.54,2024-06-21
+Gamma Inc,Alex Lee,North,,Rice Bag,3,214.85,158.32,2024-04-17
+Delta Co,David Chen,West,Clothing,TV,3,866.59,677.59,2024-02-27
+Delta Co,Priya Kumar,South,Electronics,TV,18,313.64,198.31,2024-07-19
+Delta Co,Alex Lee,West,Clothing,Shirt,15,224.21,179.95,2024-02-24
+Epsilon LLC,Mary Jones,West,Furniture,Table,7,450.13,354.22,2024-03-02
+,John Smith,East,Electronics,Shirt,4,953.12,726.75,2024-03-06
+Epsilon LLC,Alex Lee,,Electronics,Jeans,8,441.97,350.88,2024-05-15
+Beta Ltd,Mary Jones,North,Groceries,TV,18,816.19,587.07,2024-05-15
+Epsilon LLC,Priya Kumar,South,Groceries,Chair,1,296.1,224.09,2024-07-14
+Gamma Inc,Mary Jones,North,Groceries,Monitor,15,905.34,787.84,2024-11-06
+Beta Ltd,Alex Lee,West,Electronics,Monitor,1,719.16,464.19,2024-10-20
+Gamma Inc,David Chen,South,Electronics,Jeans,6,402.78,250.19,2024-12-15
+Epsilon LLC,Mary Jones,East,Electronics,Shirt,19,263.72,213.14,2024-03-29
+Gamma Inc,John Smith,West,Groceries,Jeans,14,730.38,505.62,2024-08-31
+Delta Co,David Chen,South,Groceries,TV,9,330.91,216.64,2024-12-06
+Alpha Corp,Priya Kumar,West,Furniture,Jeans,19,583.47,416.08,2024-04-30
+Alpha Corp,David Chen,East,Electronics,Jeans,12,232.59,161.73,2024-01-16
+Delta Co,John Smith,,Electronics,Chair,19,869.41,629.33,2024-04-19
+Alpha Corp,David Chen,South,Groceries,Chair,20,750.64,538.15,2024-04-15
+Epsilon LLC,David Chen,West,Groceries,Table,5,235.69,168.51,2024-07-23
+Delta Co,John Smith,South,Clothing,Chair,18,171.91,153.61,2024-12-07
+Delta Co,David Chen,South,Clothing,TV,12,632.43,543.01,2024-12-12
+,Priya Kumar,North,Clothing,Table,11,176.87,136.33,2024-07-14
+Gamma Inc,Priya Kumar,East,Clothing,Jeans,5,407.56,252.71,2024-10-09
+Delta Co,Alex Lee,West,Clothing,Laptop,5,294.72,211.15,2024-06-20
+Delta Co,John Smith,East,Electronics,Table,9,319.85,195.0,2024-09-05
+Delta Co,Mary Jones,West,Clothing,Rice Bag,14,155.14,123.17,2024-12-30
+Gamma Inc,Alex Lee,South,Clothing,Table,13,325.09,251.8,2024-05-22
+Gamma Inc,Priya Kumar,West,Electronics,Laptop,20,881.9,688.28,2024-01-26
+Gamma Inc,John Smith,West,Electronics,TV,4,529.02,448.24,2024-01-08
+Epsilon LLC,David Chen,North,Groceries,Shirt,3,901.14,764.37,2024-02-05
+Delta Co,David Chen,,Clothing,Shirt,10,693.22,590.91,2024-07-07
+Beta Ltd,Alex Lee,West,Groceries,Rice Bag,4,237.04,178.31,2024-09-20
+Beta Ltd,Alex Lee,North,Electronics,Table,14,474.57,320.35,2024-09-23
+Gamma Inc,Alex Lee,East,Electronics,Laptop,18,456.4,282.05,2024-09-10
+,Alex Lee,West,,Monitor,3,737.27,622.53,2024-09-18
+Gamma Inc,John Smith,East,Groceries,Jeans,6,703.4,515.52,2024-07-31
+Delta Co,Mary Jones,South,,TV,18,886.78,618.94,2024-11-02
+Beta Ltd,John Smith,South,Electronics,TV,2,945.83,703.16,2024-12-02
+Beta Ltd,Mary Jones,West,Groceries,Laptop,16,286.54,216.58,2024-08-17
+Alpha Corp,Alex Lee,South,Clothing,Chair,9,782.97,597.56,2024-05-29
+Gamma Inc,Alex Lee,North,Groceries,TV,8,751.25,674.61,2024-10-24
+Epsilon LLC,Alex Lee,East,Groceries,Shirt,16,819.46,735.93,2024-10-02
+Delta Co,Alex Lee,East,Furniture,Monitor,4,986.99,742.82,2024-09-18
+Alpha Corp,David Chen,East,Furniture,Jeans,15,989.61,872.42,2024-10-28
+Delta Co,Alex Lee,East,Electronics,Rice Bag,16,632.71,491.9,2024-08-31
+Delta Co,Mary Jones,West,Furniture,TV,14,139.91,98.9,2024-04-16
+Gamma Inc,Mary Jones,North,Clothing,Jeans,6,159.0,99.12,2024-09-10
+Alpha Corp,John Smith,West,Groceries,Jeans,8,477.44,428.07,2024-04-13
+Delta Co,David Chen,West,Furniture,TV,12,133.95,117.75,2024-01-14
+Epsilon LLC,Mary Jones,West,Groceries,Shirt,9,823.98,591.21,2024-05-06
+Epsilon LLC,David Chen,East,Clothing,Chair,7,387.76,251.53,2024-09-02
+,Alex Lee,West,,Monitor,3,737.27,622.53,2024-09-18
+,John Smith,East,Electronics,Shirt,4,953.12,726.75,2024-03-06
+,Priya Kumar,North,Clothing,Table,11,176.87,136.33,2024-07-14
