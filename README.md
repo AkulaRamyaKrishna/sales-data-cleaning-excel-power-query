@@ -1,7 +1,15 @@
-# Sales Data Cleaning and Transformation using Excel Power Query
+# Excel Power Query – Data Cleaning & Column Formatting
+
+This project demonstrates how raw sales data (CSV format) was imported into Excel and cleaned using Power Query. The goal was to improve data quality, ensure consistent formatting, and prepare the dataset for analysis.
+
+# Data Source
+
+Input File: sales_data.csv
+Imported into Excel using:
+Data Tab → Get Data → From Text/CSV
+
 
 ### 📋 Project Overview
-This project focuses on cleaning and transforming raw sales data using **Excel Power Query**.  
 The dataset was imported from a CSV file, cleaned to remove inconsistencies, and enhanced by adding calculated business metrics such as **Revenue**, **Profit**, and **Profit Margin**.
 
 ### 🧹 Data Cleaning Steps
@@ -19,12 +27,12 @@ The dataset was imported from a CSV file, cleaned to remove inconsistencies, and
 - Ensured consistent rounding and formatting for numeric fields  
 
 ### 🗂️ Files Included
-- `Sales_Data - Cleaned_file.xlsx` → cleaned and transformed dataset (exported from Power Query)  
-- `Documentation - excel_power Query_PDF` → step-by-step explanation with screenshots of cleaning and transformation process  
+- `Cleaned Sales Data in Excel Power Query.xlsx` → cleaned and transformed dataset (exported from Power Query)  
+- `Excel Power Query_ Documentation-PDF` → step-by-step explanation with screenshots of cleaning and transformation process  
 
 ### 🧰 Tools Used
 - Microsoft Excel  
 - Power Query Editor  
 
 ### 🎯 Outcome
-A cleaned and transformed sales dataset with added business metrics, ready for further analysis or visualization in Excel or Power BI.
+A cleaned and transformed sales dataset, ready for further analysis or visualization in Excel or Power BI.
