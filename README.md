@@ -23,11 +23,11 @@ The dataset was imported from a CSV file, cleaned to remove inconsistencies, and
 - Added new calculated columns:
   - **Revenue** = `Quantity × Unit Price`
   - **Profit** = `Revenue - Quantity * Cost Price]`
-  - **Profit Margin (%)** = `(Profit / Revenue) × 100`
+  - **Profit Margin (%)** = `Profit / Revenue`
 - Ensured consistent rounding and formatting for numeric fields  
 
 ### 🗂️ Files Included
-- `Cleaned Sales Data in Excel Power Query.xlsx` → cleaned and transformed dataset (exported from Power Query)  
+- `sales_data_cleaning_excel_power_query.xlsx` → cleaned and transformed dataset (exported from Power Query)  
 - `Excel Power Query_ Documentation-PDF` → step-by-step explanation with screenshots of cleaning and transformation process  
 
 ### 🧰 Tools Used
